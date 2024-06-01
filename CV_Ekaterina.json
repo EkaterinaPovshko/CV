@@ -1,0 +1,45 @@
+{
+  "name": "Ekaterina",
+  "lastName": "Povshko",
+  "education": 
+    [{
+    "name": "BSU",
+    "graduationYear": 2018,
+    "specialization": "economist"
+    }],
+  "location": "Minsk",
+  "hobbies": ["pets","paintings by numbers","bicycle"],
+  "softSkills": ["communication","teamwork","stress resistance", "friendliness"],
+  "hardSkills": [
+  {
+    "name": "test cases",
+    "level": "elementary",
+    "details": "",
+    "link": "https://github.com/EkaterinaPovshko/Test_Documentation"
+    },
+	{
+    "name": "bug report",
+    "level": "elementary",
+    "details": "",
+    "link": "https://github.com/EkaterinaPovshko/Test_Documentation"
+    },
+      {
+    "name": "SQL",
+    "level": "elementary",
+    "details": "",
+    "link": "https://github.com/EkaterinaPovshko/sql"
+    },
+    ],
+	"courses": [
+	{
+	"name":"belhard",
+	"graduationYear": 2024,
+    "course": "Software Testing Engineer. Basic level"
+	}],
+  "contacts": [
+    {
+    "name": "phone number",
+    "value": ""
+    }],
+  "certificates": [{}]
+}
